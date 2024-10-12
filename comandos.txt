@@ -1,0 +1,1 @@
+comando -> chmod 755 RTA_SCRIPT_Examen_20241012/*
